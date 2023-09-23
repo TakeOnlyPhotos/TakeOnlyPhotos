@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TakeOnlyPhotos
 - 👀 I’m interested in ... history
-- 🌱 I’m currently learning ... Python, Markdown
+- 🌱 I’m currently learning ... Python, github, Markdown
 - 💞️ I’m looking to collaborate on ... FOSS projects
-- 📫 How to reach me ... TBD
+- 📫 How to reach me ... tbd
 
 <!---
 TakeOnlyPhotos/TakeOnlyPhotos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
